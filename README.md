@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Maria-476
+- 👋 Hi, I’m @Maria-anwar
 - 👀 I’m interested in emerging technologies
 - 🌱 I’m currently learning python for data science
 - 💞️ I’m looking to collaborate on python based tools,scripts and automation projects
